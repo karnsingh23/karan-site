@@ -1,0 +1,117 @@
+*{
+    margin-top: 5px;
+    
+}
+body{
+    background-color: #daf9f7;
+}
+.search{
+    margin-right: 3%;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav ul{
+    display: flex;
+    gap: 50px;
+    font-weight: 700;
+    font-size: large;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+nav ul li{
+    list-style: none;
+    
+}
+.button{
+    background-color: #3c3939;
+    color: rgb(241, 243, 245);
+    padding: 4px 10px;
+    width: fit-content;
+    font-family: 600;
+    cursor: pointer;
+    font-size: large;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+input{
+    font-size: 15px;
+}
+.photo{
+    height: 300px;
+    width: 300px;
+}
+.middle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 8%;
+}
+.leftpart{
+    font-size: 30px;
+    margin-left: 5%;
+    
+}
+span{
+    color: rgb(29, 179, 179);
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+p{
+    font-size: 25px;
+}
+.rightpart{
+    margin-right: 10%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.chatbutton{
+    margin-top: 20px;
+    margin-left: 33%;
+    padding: 6px 12px;
+    background-color: #080808da;
+    color: rgb(250, 247, 247);
+    font-weight: 700;
+    width: fit-content;
+    border: 2px solid rgb(9, 9, 9);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.chatbutton:hover{
+    font-size: 17px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 7%;
+    margin-top: 5%;
+}
+footer ul {
+    display: flex;
+    gap: 15px;
+    margin-right: 5%;
+
+}
+footer ul li {
+    list-style: none;
+    
+    
+
+}
+footer p{
+    font-size: 18px;
+}
