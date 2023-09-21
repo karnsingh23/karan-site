@@ -1,6 +1,6 @@
 #My Portfolio
 
-Hey! Welcome to portfolio.
+Hey! Welcome to my portfolio.
 
 I know:
 
