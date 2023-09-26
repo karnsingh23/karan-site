@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "karan-site",
+			"path": "."
+		},
+		{
+			"name": "My first Website",
+			"path": "../../My first Website"
+		}
+	],
+	"settings": {}
+}

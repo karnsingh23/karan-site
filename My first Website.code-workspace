@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../My first Website"
+		},
+		{
+			"path": "../../1st project"
+		},
+		{
+			"path": "../../2nd project"
+		},
+		{
+			"path": "../../../HTML TUTORIAL"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My first Website"
+	}
+}
